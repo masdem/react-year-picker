@@ -1,0 +1,27 @@
+{
+  "name": "rc-year-picker",
+  "version": "1.2.0",
+  "private": false,
+  "dependencies": {
+    "element-closest": "^3.0.2",
+    "node-sass": "^4.13.0",
+    "react-fontawesome": "^1.7.1"
+  },
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masdem/react-year-picker.git"
+  },
+  "author": "Massire DEMBELE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masdem/react-year-picker.git/issues"
+  },
+  "homepage": "https://github.com/masdem/react-year-picker.git#readme",
+  "devDependencies": {
+    "react": "^16.12.0"
+  }
+}
