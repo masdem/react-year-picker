@@ -4,7 +4,7 @@
   "private": false,
   "dependencies": {
     "element-closest": "^3.0.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react-fontawesome": "^1.7.1"
   },
   "main": "./dist/index.js",
